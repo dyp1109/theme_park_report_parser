@@ -1,0 +1,189 @@
+[
+    {
+        "year": "2009",
+        "attendance": 4600000,
+        "local_visitor_pct": 41,
+        "mainland_visitor_pct": 36,
+        "international_visitor_pct": 23,
+        "revenue_hkd": 2541000000,
+        "net_profit_hkd": -1315000000,
+        "evidence": "「截至 2009 年 10 月 3 日止之財政年度」；「樂園入場人次 (百萬) | 2009 | 4.6」；「本港 41% / 中國內地 36% / 國際 23%」；「(港幣百萬元) 收入 2,541」；「純利/(淨虧損) (1,315)」",
+        "confidence": "high"
+    },
+    {
+        "year": "2010",
+        "attendance": 5200000,
+        "local_visitor_pct": 33,
+        "mainland_visitor_pct": 42,
+        "international_visitor_pct": 25,
+        "revenue_hkd": 3013000000,
+        "net_profit_hkd": -718000000,
+        "evidence": "「截至 2010 年 10 月 2 日止之財政年度」；「樂園入場人次 (百萬) | 5.2」；「本港 33%」「中國內地 42%」「國際 25%」；「收入 | 3,013」(港幣百萬元)；「純利/(淨虧損) | (718)」(港幣百萬元)",
+        "confidence": "high"
+    },
+    {
+        "year": "2011",
+        "attendance": 5900000,
+        "local_visitor_pct": 31,
+        "mainland_visitor_pct": 45,
+        "international_visitor_pct": 24,
+        "revenue_hkd": 3630000000,
+        "net_profit_hkd": -237000000,
+        "evidence": "「截至 2011 年 10 月 1 日止之財政年度」；「樂園整體訪客入場人次…至 590 萬人次」/「樂園入場人次 (百萬) 5.9」；「本港 31%」「中國內地 45%」「國際 24%」；「收入增加 20% 至 36.3 億港元」/「收入 3,630」(港幣百萬元)；「淨虧損…至 2.37 億港元」/「純利/(淨虧損) (237)」(港幣百萬元)",
+        "confidence": "high"
+    },
+    {
+        "year": "2012",
+        "attendance": 6700000,
+        "local_visitor_pct": 33,
+        "mainland_visitor_pct": 45,
+        "international_visitor_pct": 22,
+        "revenue_hkd": 4272000000,
+        "net_profit_hkd": 109000000,
+        "evidence": "「截至 2012 年 9 月 29 日止之財政年度」；「樂園整體訪客入場人次…增加 13% 至 670 萬人次」/ 表「樂園入場人次 (百萬) 6.7」；「本港 33%」「中國內地 45%」「國際 22%」；「收入增加 18% 至 42.72 億港元」/ 表「收入 4,272」(港幣百萬元)；「首次錄得純利 1.09 億港元」/ 表「純利/(淨虧損) 109」(港幣百萬元)。",
+        "confidence": "high"
+    },
+    {
+        "year": "2013",
+        "attendance": 7400000,
+        "local_visitor_pct": 33,
+        "mainland_visitor_pct": 47,
+        "international_visitor_pct": 20,
+        "revenue_hkd": 4896000000,
+        "net_profit_hkd": 242000000,
+        "evidence": "「截至 2013 年 9 月 28 日止之財政年度」；「樂園整體訪客入場人次…達 740 萬人次」/「樂園入場人次 (百萬) | 7.4」；「本港 33%」「中國內地 47%」「國際 20%」；「收入增加 15% 至 48.96 億港元」/「收入 | 4,896」；「並錄得純利 2.42 億港元」/「純利 | 242」",
+        "confidence": "high"
+    },
+    {
+        "year": "2014",
+        "attendance": 7500000,
+        "local_visitor_pct": 32,
+        "mainland_visitor_pct": 48,
+        "international_visitor_pct": 20,
+        "revenue_hkd": 5466000000,
+        "net_profit_hkd": 332000000,
+        "evidence": "「截至 2014 年 9 月 27 日止之財政年度」；「樂園整體賓客入場人次達 750 萬」/「樂園入場人次 (百萬) 7.5」；「本港 32%」「中國內地 48%」「國際 20%」；「收入增加 12% 至 54.66 億港元」/「收入 5,466 (港幣百萬元)」；「純利創新高達 3.32 億港元」/「純利 332 (港幣百萬元)」",
+        "confidence": "high"
+    },
+    {
+        "year": "2015",
+        "attendance": 6800000,
+        "local_visitor_pct": 39,
+        "mainland_visitor_pct": 41,
+        "international_visitor_pct": 20,
+        "revenue_hkd": 5114000000,
+        "net_profit_hkd": -148000000,
+        "evidence": "「截至 2015 年 10 月 3 日止之財政年度」；「樂園整體賓客入場人次為 680 萬」/「樂園入場人次 (百萬) | 6.8」；「本港 39%」「中國內地 41%」「國際 20%」；「收入 | 5,114」(港幣百萬元)；「(淨虧損)/純利 | (148)」(港幣百萬元)",
+        "confidence": "high"
+    },
+    {
+        "year": "2016",
+        "attendance": 6100000,
+        "local_visitor_pct": 39,
+        "mainland_visitor_pct": 36,
+        "international_visitor_pct": 25,
+        "revenue_hkd": 4750000000,
+        "net_profit_hkd": -171000000,
+        "evidence": "「2016財政年度…610萬人次」；「按來源地計賓客百分率…本港 39%、中國內地 36%、國際 25%」；「(港幣百萬元)…收入 4,750」；「淨虧損 (171)」",
+        "confidence": "high"
+    },
+    {
+        "year": "2017",
+        "attendance": 6200000,
+        "local_visitor_pct": 41,
+        "mainland_visitor_pct": 34,
+        "international_visitor_pct": 25,
+        "revenue_hkd": 5118000000,
+        "net_profit_hkd": -345000000,
+        "evidence": "「截至 2017 年 9 月 30 日止之財政年度」；「樂園全年賓客入場人次上升至 620 萬」；「按來源地計賓客百分率… 2017：本港 41% 中國內地 34% 國際 25%」；「2017 財政年度的收入為 51.18 億港元」/表列「2017 5,118」(港幣百萬元)；「年內淨虧損 3.45 億港元」/表列「2017 (345)」(港幣百萬元)",
+        "confidence": "high"
+    },
+    {
+        "year": "2018",
+        "attendance": 6700000,
+        "local_visitor_pct": 40,
+        "mainland_visitor_pct": 34,
+        "international_visitor_pct": 26,
+        "revenue_hkd": 6021000000,
+        "net_profit_hkd": -54000000,
+        "evidence": "「截至2018年9月29日止之財政年度」；「全年賓客入場人次按年增加8%至670萬」；按來源地計賓客百分率「2018：40% 34% 26%」；「收入為60.21億港元」/表內「6,021」(港幣百萬元)；表內「淨純利 / (虧損) (54)」及「淨虧損…至5,400萬港元」",
+        "confidence": "high"
+    },
+    {
+        "year": "2019",
+        "attendance": 6500000,
+        "local_visitor_pct": 41,
+        "mainland_visitor_pct": 33,
+        "international_visitor_pct": 26,
+        "revenue_hkd": 6047000000,
+        "net_profit_hkd": -105000000,
+        "evidence": "「2019財政年度的業務收入達60.47億港元」；「全年賓客入場人次按年下跌4%至650萬」；「本地 41%」「中國內地 33%」「其他市場 26%」；財務摘要「2019…收入 6,047…淨純利 / (虧損) (105)」；「2019財政年度的淨虧損金額為1.05億港元」",
+        "confidence": "high"
+    },
+    {
+        "year": "2020",
+        "attendance": 1700000,
+        "local_visitor_pct": 75,
+        "mainland_visitor_pct": 8,
+        "international_visitor_pct": 17,
+        "revenue_hkd": 1443000000,
+        "net_profit_hkd": -2662000000,
+        "evidence": "「2020財政年度樂園入場人次為170萬」; 「本地 75% / 中國內地 8% / 其他市場 17%」; 「收入 | 1,443」(港幣百萬元); 「淨虧損 | (2,662)」(港幣百萬元)",
+        "confidence": "high"
+    },
+    {
+        "year": "2021",
+        "attendance": 2800000,
+        "local_visitor_pct": 100,
+        "mainland_visitor_pct": 0,
+        "international_visitor_pct": 0,
+        "revenue_hkd": 1716000000,
+        "net_profit_hkd": -2350000000,
+        "evidence": "「2021財政年度樂園入場人次按年上升64%至280萬」；表格「樂園入場人次 (百萬) | 2021 | 2.8」；「按來源地計賓客百分率」中「本地 100% / 中國內地 0% / 其他市場 0%」；「(港幣百萬元)」表中「收入 1,716」；同表「淨虧損 (2,350)」。",
+        "confidence": "high"
+    },
+    {
+        "year": "2022",
+        "attendance": 3400000,
+        "local_visitor_pct": 100,
+        "mainland_visitor_pct": 0,
+        "international_visitor_pct": 0,
+        "revenue_hkd": 2243000000,
+        "net_profit_hkd": -2071000000,
+        "evidence": "「2022財政年度的樂園入場人次按年上升22%至340萬」；「按來源地計賓客百分率… 本地 100%／中國內地 0%／其他市場 0%」；「收入仍較上年度增加5.27億港元，或31%至22.43億港元」；「(港幣百萬元)… 收入 2,243」；「淨虧損…改善至20.71億港元」；「(港幣百萬元)… 淨虧損 (2,071)」",
+        "confidence": "high"
+    },
+    {
+        "year": "2023",
+        "attendance": 6400000,
+        "local_visitor_pct": 65,
+        "mainland_visitor_pct": 24,
+        "international_visitor_pct": 11,
+        "revenue_hkd": 5737000000,
+        "net_profit_hkd": -356000000,
+        "evidence": "「2023財政年度的樂園入場人次按年上升87%至640萬」；表格「樂園入場人次(百萬) 6.4」；按來源地計賓客百分率「2023：65% 24% 11%」；財務摘要（港元百萬元）「收入 5,737」「淨虧損 (356)」",
+        "confidence": "high"
+    },
+    {
+        "year": "2024",
+        "attendance": 7700000,
+        "local_visitor_pct": 40,
+        "mainland_visitor_pct": 38,
+        "international_visitor_pct": 22,
+        "revenue_hkd": 8813000000,
+        "net_profit_hkd": 838000000,
+        "evidence": "「2024財政年度的收入創下 88.13 億港元」; 「樂園的入場人次錄得770萬」; 「按來源地計賓客百分率… 本地 40%／中國內地 38%／其他市場 22%」; 「(港元百萬元)… 收入 8,813」; 「淨利潤/(淨虧損) 838」",
+        "confidence": "high"
+    },
+    {
+        "year": "2025",
+        "attendance": 7500000,
+        "local_visitor_pct": 36,
+        "mainland_visitor_pct": 39,
+        "international_visitor_pct": 25,
+        "revenue_hkd": 8694000000,
+        "net_profit_hkd": 536000000,
+        "evidence": "「2025財政年度…錄得86.94億港元的收入…以及5.36億港元的淨利潤」；「樂園於2025財政年度錄得 750萬入場人次」；「樂園入場人次(百萬) 2025 7.5」；「按來源地計賓客百分率…本地 36%…中國內地 39%…其他市場 25%」；「(百萬港元)…收入 8,694…淨利潤 536」",
+        "confidence": "high"
+    }
+]
