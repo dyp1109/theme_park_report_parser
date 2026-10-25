@@ -1,0 +1,1377 @@
+[
+    {
+        "facts": [
+            {
+                "category": "finance",
+                "statement": "香港迪士尼於2009年7月達成資本重整及樂園擴建協議，華特迪士尼將27.65億港元貸款及循環貸款全數轉換為普通股，並額外注資3.11億港元；香港政府亦將同等金額貸款轉換為普通股。",
+                "importance": "high",
+                "reason": "屬重大財務重組，改變資本結構並為後續擴建提供基礎，對樂園發展方向有長遠影響。",
+                "source_quote": "於 2009 年 7 月，主題樂園公司的股東就香港迪士尼的資本重整及樂園擴建計劃達成協議。根據該 協議，華特迪士尼於 2009 財政年度將提供予香港迪士尼的貸款及循環貸款合共 27.65 億港元全數 轉換為普通股，並額外出資 3.11 億港元；香港政府提供予香港迪士尼同等金額的貸款亦轉換為普 通股",
+                "page": null,
+                "section": "資本重整及樂園擴建協議",
+                "confidence": 0.98
+            },
+            {
+                "category": "ownership",
+                "statement": "在2009年資本重整後，華特迪士尼於香港迪士尼的股權由43%增至47%，並預計其後進一步增至約48%。",
+                "importance": "high",
+                "reason": "反映股權結構出現實質變動，屬公司管治與控制權的重要資訊。",
+                "source_quote": "華特迪士尼在 2009 財政年度於香港迪士尼之股權由 43% 增加至 47%，並預計未來會進一步增至約 48%。",
+                "page": null,
+                "section": "資本重整及樂園擴建協議",
+                "confidence": 0.97
+            },
+            {
+                "category": "expansion",
+                "statement": "2009年公布的擴建計劃包括興建三個新主題園區，使主題樂園面積增加約23%，並新增三十多項遊樂設施、娛樂表演及互動體驗。",
+                "importance": "high",
+                "reason": "屬樂園歷史上的重大擴建，明顯改變園區規模與設施組成。",
+                "source_quote": "香港迪士尼的擴建計劃包括三個新的主題園區，為現有主題樂園的面積增加約 23%，並提供超過 三十多個新的遊樂設施、娛樂表演及互動體驗",
+                "page": null,
+                "section": "資本重整及樂園擴建協議",
+                "confidence": 0.98
+            },
+            {
+                "category": "expansion",
+                "statement": "2009年擴建計劃提出的新園區暫名為「灰熊山谷」、「迷離莊園」及「反斗奇兵大本營」，並預計於2014年中前分階段完成。",
+                "importance": "high",
+                "reason": "涉及後來實際落成的重要園區，是樂園發展史上的關鍵規劃節點。",
+                "source_quote": "新建 的其中兩個主題園區，暫名為「灰熊山谷」及「迷離莊園」... 而另一主題園區，暫名為「反斗奇兵大本營」... 上述各項新建的遊樂設施均預計於 2014 年中前分階段完成。",
+                "page": null,
+                "section": "資本重整及樂園擴建協議",
+                "confidence": 0.97
+            },
+            {
+                "category": "other",
+                "statement": "報告指出「灰熊山谷」及「迷離莊園」在開幕後五年內將為全球獨有設施，而「反斗奇兵大本營」在啟用後五年內將為亞洲獨有設施。",
+                "importance": "medium",
+                "reason": "屬擴建計劃中對園區定位的具體說明，可作為特色背景，但帶有前瞻性，宜以其他來源核實。",
+                "source_quote": "新建 的其中兩個主題園區，暫名為「灰熊山谷」及「迷離莊園」，於其開幕後的五年內將會是全球獨 一無二的遊樂設施，而另一主題園區，暫名為「反斗奇兵大本營」，亦將會是其啟用後的五年內 亞洲獨有的遊樂設施。",
+                "page": null,
+                "section": "資本重整及樂園擴建協議",
+                "confidence": 0.83
+            }
+        ],
+        "year": 2009
+    },
+    {
+        "facts": [
+            {
+                "category": "ownership",
+                "statement": "香港政府與華特迪士尼於2010財政年度就擴建計劃調整資本結構；華特迪士尼注資以換取普通股，香港政府亦將相等金額貸款轉換為普通股。",
+                "importance": "high",
+                "reason": "涉及股權與資本結構調整，屬影響樂園長期所有權安排的重要事項。",
+                "source_quote": "華特迪士尼通過注資以獲取主題樂園公司的普通股；而香港政府亦同時將相等於華特迪士尼注資金額的貸款轉換為普通股。",
+                "page": null,
+                "section": "流動資金",
+                "confidence": 0.95
+            },
+            {
+                "category": "ownership",
+                "statement": "2010財政年度末，香港政府持有香港國際主題樂園有限公司約53%股權，華特迪士尼持有47%；擴建完成後預計分別為52%及48%。",
+                "importance": "medium",
+                "reason": "可用於補充園區的合資擁有結構及擴建後股權變化。",
+                "source_quote": "在 2010 財政年度末，香港政府持有主題樂園公司的股權約 53%，餘下的 47% 股權則由華特迪士尼持有。直至擴建工程完成後，香港政府與華特迪士尼於主題樂園公司的股權分佈預計將分別為 52% 及 48%。",
+                "page": null,
+                "section": "業務概要",
+                "confidence": 0.97
+            },
+            {
+                "category": "expansion",
+                "statement": "香港迪士尼擴建工程於2010財政年度進入施工階段，計劃增建「灰熊山谷」、「迷離莊園」及「反斗奇兵大本營」三個主題園區。",
+                "importance": "high",
+                "reason": "屬樂園重大擴建計劃的實質推進，對園區規模與內容有長期影響。",
+                "source_quote": "香港迪士尼的擴建工程現正進入施工階段，待三個新建的主題園區落成後，樂園的總面積較現時將增加約 23%。新增的主題園區暫名為「灰熊山谷」、「迷離莊園」及「反斗奇兵大本營」",
+                "page": null,
+                "section": "樂園擴建",
+                "confidence": 0.98
+            },
+            {
+                "category": "expansion",
+                "statement": "擴建完成後，香港迪士尼樂園總面積預計增加約23%。",
+                "importance": "high",
+                "reason": "直接反映擴建規模，屬可納入歷史與發展段落的重要事實。",
+                "source_quote": "待三個新建的主題園區落成後，樂園的總面積較現時將增加約 23%。",
+                "page": null,
+                "section": "樂園擴建",
+                "confidence": 0.98
+            },
+            {
+                "category": "attraction",
+                "statement": "「反斗奇兵大本營」為三個新園區中首個啟用的園區，預計於2011曆年內竣工及開放。",
+                "importance": "high",
+                "reason": "新主題園區的開放時間屬園區發展里程碑。",
+                "source_quote": "首個主題園區「反斗奇兵大本營」將於 2011 (曆年) 年內竣工及啟用。",
+                "page": null,
+                "section": "樂園擴建",
+                "confidence": 0.97
+            },
+            {
+                "category": "attraction",
+                "statement": "擴建中的新遊樂設施在啟用初期將包括全球或亞洲獨有項目。",
+                "importance": "medium",
+                "reason": "若有獨立來源佐證，可支持其特色定位；但表述較概括。",
+                "source_quote": "並在啟用初期將為全球或亞洲獨有的遊樂設施。",
+                "page": null,
+                "section": "樂園擴建",
+                "confidence": 0.79
+            },
+            {
+                "category": "operations",
+                "statement": "香港迪士尼於2011年1月展開開幕五周年慶祝活動。",
+                "importance": "medium",
+                "reason": "五周年屬園區歷史節點，可作時間線補充。",
+                "source_quote": "樂園度假區在 2011 年 1 月展開慶祝開幕五周年的活動。",
+                "page": null,
+                "section": "全年摘要",
+                "confidence": 0.96
+            },
+            {
+                "category": "employment",
+                "statement": "香港迪士尼於2010財政年度平均僱用逾4,300名全職及1,400名兼職員工。",
+                "importance": "low",
+                "reason": "屬單一年度營運數據，除非用於說明就業規模，否則百科價值有限。",
+                "source_quote": "本財政年度香港迪士尼平均僱用超過 4,300 名全職及 1,400 名兼職員工",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.95
+            }
+        ],
+        "year": 2010
+    },
+    {
+        "facts": [
+            {
+                "category": "expansion",
+                "statement": "「反斗奇兵大本營」於2011年11月18日在香港迪士尼樂園開幕，為三個新增主題園區中首個落成者。",
+                "importance": "high",
+                "reason": "Major permanent expansion milestone with a specific opening date",
+                "source_quote": "首個完成的園區為反斗奇兵大本營，取材自備受歡迎的迪士尼/彼思動畫系列「反斗奇兵」，已於 2011 年 11 月 18 日開幕。",
+                "page": null,
+                "section": "全年摘要",
+                "confidence": 0.99
+            },
+            {
+                "category": "expansion",
+                "statement": "香港迪士尼擴建完成後，樂園總面積將較原來增加約四分之一。",
+                "importance": "high",
+                "reason": "Major structural change to the park's scale",
+                "source_quote": "待三個新建的主題園區全部落成後，樂園的總面積會較原來的增加約四分之一。",
+                "page": null,
+                "section": "樂園擴建",
+                "confidence": 0.96
+            },
+            {
+                "category": "attraction",
+                "statement": "擴建計劃中的「反斗奇兵大本營」被列為亞洲獨有主題園區，而「灰熊山谷」及「迷離莊園」被列為全球獨有主題園區。",
+                "importance": "medium",
+                "reason": "Describes distinctive long-term features of the expansion that may support coverage of the park's unique attractions",
+                "source_quote": "其中的反斗奇兵大本營為亞洲獨有的主題園區，灰熊山谷及迷離莊園則為全球獨有的主題園區。",
+                "page": null,
+                "section": "樂園擴建",
+                "confidence": 0.94
+            },
+            {
+                "category": "expansion",
+                "statement": "報告稱整項擴建工程將較原訂計劃提前一年完成，迷離莊園預計於2013年春季啟用。",
+                "importance": "medium",
+                "reason": "Potentially notable project milestone, though timing claims should ideally be corroborated by secondary sources",
+                "source_quote": "加上預計在 2013 年春季內竣工及啟用的迷離莊園，整項擴建工程將比原訂計劃提前一 年完成。",
+                "page": null,
+                "section": "樂園擴建",
+                "confidence": 0.9
+            },
+            {
+                "category": "ownership",
+                "statement": "2011財政年度內，華特迪士尼注資以換取香港國際主題樂園有限公司普通股，香港政府亦將相等金額的貸款轉換為普通股。",
+                "importance": "high",
+                "reason": "Ownership and capital structure change affecting the park company",
+                "source_quote": "華特迪士尼通過注資以獲取主題樂園公司的普通股；而香港 政府亦同時將相等於華特迪士尼注資金額的貸款轉換為普通股。",
+                "page": null,
+                "section": "流動資金",
+                "confidence": 0.97
+            },
+            {
+                "category": "ownership",
+                "statement": "報告指出，於2011財政年度末，香港政府持有香港國際主題樂園有限公司約53%股權，華特迪士尼持有47%。",
+                "importance": "medium",
+                "reason": "Ownership split is a stable structural fact relevant to encyclopedic coverage, though it may vary by year",
+                "source_quote": "在 2011 財政年度末，香港 政府持有主題樂園公司的股權約 53%，餘下的 47% 股權則由華特迪士尼持有。",
+                "page": null,
+                "section": "業務概要",
+                "confidence": 0.98
+            }
+        ],
+        "year": 2011
+    },
+    {
+        "facts": [
+            {
+                "category": "finance",
+                "statement": "香港迪士尼於2012財政年度首次錄得年度純利，扭轉自開幕以來持續虧損的局面。",
+                "importance": "high",
+                "reason": "這是營運歷程中的重大轉折點，屬於可能改變樂園發展方向的例外財務事件。",
+                "source_quote": "並自開幕以來首次獲得年度純利 1.09 億港元。",
+                "page": null,
+                "section": "摘要",
+                "confidence": 0.98
+            },
+            {
+                "category": "attraction",
+                "statement": "反斗奇兵大本營於2011年11月18日正式啟用。",
+                "importance": "medium",
+                "reason": "新增主題園區屬於樂園發展的重要里程碑。",
+                "source_quote": "反斗奇兵大本營已於 2011 年 11 月 18 日正式啟用",
+                "page": null,
+                "section": "樂園擴建",
+                "confidence": 0.99
+            },
+            {
+                "category": "attraction",
+                "statement": "灰熊山谷於2012年7月14日開幕。",
+                "importance": "medium",
+                "reason": "新增主題園區屬於樂園發展的重要里程碑。",
+                "source_quote": "灰熊山谷亦於 2012 年 7 月 14 日開幕",
+                "page": null,
+                "section": "樂園擴建",
+                "confidence": 0.99
+            },
+            {
+                "category": "expansion",
+                "statement": "迷離莊園預期於2013年年中竣工及啟用，完成三個新增主題園區的擴建計劃。",
+                "importance": "medium",
+                "reason": "屬於重大擴建工程的關鍵節點，可說明樂園版圖擴張。",
+                "source_quote": "迷離莊園則預期在 2013 年年中竣工及啟用。",
+                "page": null,
+                "section": "樂園擴建",
+                "confidence": 0.95
+            },
+            {
+                "category": "expansion",
+                "statement": "三個新增主題園區全部落成後，香港迪士尼樂園總面積將增加約四分之一。",
+                "importance": "medium",
+                "reason": "反映擴建規模，屬於樂園長期發展的重要資訊。",
+                "source_quote": "待三個新建的主題園區全部落成後，樂園的總面積將會增加約四分之一。",
+                "page": null,
+                "section": "樂園擴建",
+                "confidence": 0.97
+            },
+            {
+                "category": "ownership",
+                "statement": "2012財政年度內，華特迪士尼注資以取得香港國際主題樂園有限公司普通股，香港特區政府亦將等額貸款轉換為普通股。",
+                "importance": "high",
+                "reason": "涉及股本與融資結構調整，屬於可能影響公司治理與資本結構的重要事件。",
+                "source_quote": "華特迪士尼通過注資以獲取主題樂園公司的普通股；而香港特區政府亦同時將相等於華特迪士尼注資金額的貸款轉換為普通股。",
+                "page": null,
+                "section": "流動資金",
+                "confidence": 0.96
+            }
+        ],
+        "year": 2012
+    },
+    {
+        "facts": [
+            {
+                "category": "expansion",
+                "statement": "迷離莊園於2013年5月17日開幕，標誌香港迪士尼自2009年展開的擴建工程完成。",
+                "importance": "high",
+                "reason": "Completion of a major multi-year expansion is a lasting milestone in the park's development.",
+                "source_quote": "迷離莊園亦於 2013 年 5 月 17 日正式開幕，為香港迪士尼 2009 年度的擴建工程劃上完滿的句號。",
+                "page": null,
+                "section": "樂園及酒店擴建",
+                "confidence": 0.98
+            },
+            {
+                "category": "attraction",
+                "statement": "迷離大宅採用無軌列車系統，並獲TEA Thea Awards「傑出成就獎─遊樂設施」。",
+                "importance": "medium",
+                "reason": "An attraction receiving a notable industry award and using distinctive ride technology may merit mention if supported by secondary sources.",
+                "source_quote": "迷離大宅是一個採用創新無軌列車系統的室內遊樂設施，推出後瞬即成為最受賓客歡迎的遊樂設施之一，並於世界主題娛樂協會 (TEA)主題娛樂大奬 (Thea Awards) 中，獲頒贈「傑出成就獎 ─ 遊樂設施」的殊榮",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.94
+            },
+            {
+                "category": "expansion",
+                "statement": "香港迪士尼於2013年10月宣布將於2016年底開設以漫威《鐵甲奇俠》為主題的新園區。",
+                "importance": "high",
+                "reason": "Announcement of a new themed area tied to Marvel represents a significant strategic expansion of the park.",
+                "source_quote": "在 2013 年 10 月，香港迪士尼宣佈將於 2016 年底開設以漫威「鐵甲奇俠」為主題的全新主題區。",
+                "page": null,
+                "section": "樂園及酒店擴建",
+                "confidence": 0.97
+            },
+            {
+                "category": "expansion",
+                "statement": "香港迪士尼計劃興建一間設有750間客房的新迪士尼主題酒店，預期於2017年年初啟用。",
+                "importance": "high",
+                "reason": "A planned third hotel is a substantial long-term resort expansion relevant to the park's history and scale.",
+                "source_quote": "此外，香港迪士尼計劃加建一間提供 750 間客房的全新的迪士尼品牌酒店，待得到一切所需項目批核，預期在 2017 年年初啓用。",
+                "page": null,
+                "section": "樂園及酒店擴建",
+                "confidence": 0.97
+            },
+            {
+                "category": "ownership",
+                "statement": "2013財政年度末，香港特區政府持有香港國際主題樂園有限公司約52%股權，華特迪士尼公司持有48%。",
+                "importance": "medium",
+                "reason": "Ownership structure is core background information for a Wikipedia article about the resort.",
+                "source_quote": "在 2013 財政年度末，香港特區政府持有主題樂園公司的股權約 52%，餘下的 48% 股權則由迪士尼公司持有。",
+                "page": null,
+                "section": "業務概要",
+                "confidence": 0.99
+            },
+            {
+                "category": "finance",
+                "statement": "香港迪士尼於2013財政年度錄得開幕以來首次純利。",
+                "importance": "high",
+                "reason": "First-ever profit is an exceptional turning point in the park's financial history and overall trajectory.",
+                "source_quote": "本年度香港迪士尼錄得破紀錄的業務收入 48.96 億港元，較去年增加 15%，而純利更增長超過一倍，達 2.42 億港元。",
+                "page": null,
+                "section": "摘要",
+                "confidence": 0.91
+            }
+        ],
+        "year": 2013
+    },
+    {
+        "facts": [
+            {
+                "category": "expansion",
+                "statement": "香港迪士尼表示其主題園區擴展計劃已隨迷離莊園於2013年5月開幕而完成。",
+                "importance": "medium",
+                "reason": "Marks completion of a multi-year expansion program, a potentially notable milestone in the park's development history.",
+                "source_quote": "隨著迷離莊園於 2013 年 5 月正式開幕，主題園區的擴展計劃圓滿完成。",
+                "page": null,
+                "section": "摘要",
+                "confidence": 0.96
+            },
+            {
+                "category": "attraction",
+                "statement": "香港迪士尼於2014年10月推出夜間花車巡遊「迪士尼光影匯」，報告稱其為園方首個全LED燈夜間花車巡遊。",
+                "importance": "medium",
+                "reason": "Introduction of a new recurring nighttime parade can be relevant to the park's entertainment history, though significance should be verified with secondary sources.",
+                "source_quote": "當中包括於 2014 年 10 月推出首個全 LED 燈夜間花車巡遊「迪士尼光影匯」。",
+                "page": null,
+                "section": "摘要",
+                "confidence": 0.97
+            },
+            {
+                "category": "expansion",
+                "statement": "香港迪士尼於2013年10月宣布興建以漫威「鐵甲奇俠」為主題的新園區，預計於2016年年底開幕。",
+                "importance": "high",
+                "reason": "A major permanent expansion introducing Marvel theming, significant to the park's long-term development.",
+                "source_quote": "在 2013 年 10 月，香港迪士尼宣佈將於 2016 年年底開設以漫威「鐵甲奇 俠」為主題的全新主題區。",
+                "page": null,
+                "section": "樂園及酒店擴建",
+                "confidence": 0.98
+            },
+            {
+                "category": "attraction",
+                "statement": "新漫威園區的主要設施為「鐵甲奇俠飛行之旅」。",
+                "importance": "high",
+                "reason": "A named major attraction in a new themed area is a core encyclopedic fact about the park's attraction lineup.",
+                "source_quote": "其主要遊樂設施 ─「鐵甲奇俠飛行之旅」 將 帶領香港迪士尼樂園賓客與「鐵甲奇俠」主角東尼史達一起穿梭香港",
+                "page": null,
+                "section": "樂園及酒店擴建",
+                "confidence": 0.96
+            },
+            {
+                "category": "expansion",
+                "statement": "香港迪士尼正在興建提供750間客房的「迪士尼探索家度假酒店」，預計於2017年年初啓用。",
+                "importance": "high",
+                "reason": "Construction of a third hotel is a major permanent expansion of the resort.",
+                "source_quote": "香港迪士尼現正興建一間提供 750 間客房的新酒店「迪士尼探索 家度假酒店」，新酒店將以冒險精神為主題，預期將於 2017 年年初啓用",
+                "page": null,
+                "section": "樂園及酒店擴建",
+                "confidence": 0.98
+            },
+            {
+                "category": "ownership",
+                "statement": "截至2014財政年度末，香港特區政府持有香港國際主題樂園有限公司約52%股權，華特迪士尼公司持有其餘48%。",
+                "importance": "medium",
+                "reason": "Ownership structure is a core background fact for a Wikipedia article, though it may already be covered and should be updated only if needed.",
+                "source_quote": "在 2014 財政年度末，香港特區政府持有主題樂園公司的股權約 52% ，餘下 的 48% 股權則由迪士尼公司持有。",
+                "page": null,
+                "section": "業務概要",
+                "confidence": 0.99
+            }
+        ],
+        "year": 2014
+    },
+    {
+        "facts": [
+            {
+                "category": "expansion",
+                "statement": "香港迪士尼於2015年11月推出開幕十周年慶祝活動，為期一年，新增《迪士尼魔法書房》、《童話園林》及加入城堡投影技術的《星夢奇緣》煙花表演。",
+                "importance": "medium",
+                "reason": "Anniversary program introduced multiple named entertainment offerings that may be relevant to the park's development and notable shows.",
+                "source_quote": "為紀念香港迪士尼開幕十周年，香港迪士尼於 2015 年 11 月推出為期 一年以「Happily Ever After」為主題的慶祝活動，呈獻一連串嶄新的 娛樂體驗，當中包括「迪士尼魔法書房」和「童話園林 」，以及在睡 公主城堡加入嶄新影像投影技術的「星夢奇緣」煙花表演。",
+                "page": null,
+                "section": "摘要",
+                "confidence": 0.91
+            },
+            {
+                "category": "attraction",
+                "statement": "香港迪士尼表示將於2016年開設以漫威《鐵甲奇俠》為主題的新園區，主要設施為《鐵甲奇俠飛行之旅》。",
+                "importance": "high",
+                "reason": "Major new themed area tied to Marvel intellectual property; likely a lasting addition to the park.",
+                "source_quote": "香港迪士尼計劃於 2016 年開設以漫威「鐵甲奇俠」為主題的全新主 題區。其主要遊樂設施 ─「鐵甲奇俠飛行之旅」 將會帶領賓客與「 鐵甲奇俠」主角東尼史達一起穿梭香港，合力對抗外星侵略者，展開 一場英雄冒險之旅。",
+                "page": null,
+                "section": "樂園及酒店擴建",
+                "confidence": 0.96
+            },
+            {
+                "category": "expansion",
+                "statement": "香港迪士尼當時正興建迪士尼探索家度假酒店，提供750間客房，並預計於2017年開幕。",
+                "importance": "high",
+                "reason": "New on-site hotel is a substantial permanent expansion of the resort.",
+                "source_quote": "此外，香港迪士尼現正興建一家提供 750 間客房的全新「迪士尼探索 家度假酒店」，新酒店以冒險精神為主題，預計於 2017 年開幕，為 賓客提供嶄新的度假式住宿體驗。",
+                "page": null,
+                "section": "樂園及酒店擴建",
+                "confidence": 0.98
+            },
+            {
+                "category": "ownership",
+                "statement": "截至2015財政年度末，香港國際主題樂園有限公司由香港特區政府持股約53%，華特迪士尼公司持股47%。",
+                "importance": "medium",
+                "reason": "Ownership structure is core background information for an encyclopedia article, though it may already be covered elsewhere and should be updated with current sourcing if used.",
+                "source_quote": "在 2015 財政年度末，香港特區政府持有主題樂園公司的股 權約 53%，餘下的 47% 股權則由迪士尼公司持有。",
+                "page": null,
+                "section": "業務概要",
+                "confidence": 0.97
+            },
+            {
+                "category": "finance",
+                "statement": "2015財政年度內，迪士尼公司為新度假酒店注資8.27億港元，而香港特區政府同時將同等金額貸款轉換為普通股。",
+                "importance": "high",
+                "reason": "Capital injection and simultaneous loan-to-equity conversion indicate a meaningful ownership/financing restructuring linked to expansion.",
+                "source_quote": "迪士尼公司為全新度假酒店注資 8.27 億港 元及經營活動的現金淨流入抵銷部份減幅。迪士尼公司通過注資以 獲取主題樂園公司的普通股；而香港特區政府亦同時將同等金額的貸 款轉換為普通股。",
+                "page": null,
+                "section": "流動資金",
+                "confidence": 0.95
+            },
+            {
+                "category": "finance",
+                "statement": "香港特區政府向香港迪士尼提供的無抵押長期貸款須分期償還至2022年。",
+                "importance": "low",
+                "reason": "Potentially useful background on financing arrangements, but limited standalone encyclopedic significance.",
+                "source_quote": "結餘主要為香港特 區政府對香港迪士尼提供的無抵押長期貸款，貸款將分期償還至 2022 年。",
+                "page": null,
+                "section": "非流動負債",
+                "confidence": 0.88
+            }
+        ],
+        "year": 2015
+    },
+    {
+        "facts": [
+            {
+                "category": "attraction",
+                "statement": "「星球大戰：入侵明日世界」於2016年6月推出。",
+                "importance": "medium",
+                "reason": "新增具明確日期的重要主題體驗，可作為園區發展時間線的一部分。",
+                "source_quote": "2016 年 6 月推出的「星球大戰： 入侵明日世界」廣受不同年齡賓客歡迎",
+                "page": null,
+                "section": "摘要",
+                "confidence": 0.95
+            },
+            {
+                "category": "attraction",
+                "statement": "全球迪士尼樂園首個漫威主題遊樂設施「鐵甲奇俠飛行之旅」於2017年1月推出。",
+                "importance": "high",
+                "reason": "屬全球迪士尼樂園首個漫威主題遊樂設施，具明顯長期歷史意義。",
+                "source_quote": "全球迪士尼樂園首個漫威主題遊樂設施「鐵甲奇俠飛行之旅」於 2017 年 1 月推出",
+                "page": null,
+                "section": "摘要",
+                "confidence": 0.98
+            },
+            {
+                "category": "expansion",
+                "statement": "迪士尼探索家度假酒店設有750間客房，於2017年4月30日開業。",
+                "importance": "high",
+                "reason": "新增主題酒店屬度假區容量與設施的重要擴充。",
+                "source_quote": "提供 750 間客房的「迪士尼探索家度 假酒店」亦將於 2017 年 4 月 30 日開業",
+                "page": null,
+                "section": "摘要",
+                "confidence": 0.98
+            },
+            {
+                "category": "ownership",
+                "statement": "截至2016財政年度末，香港特區政府持有香港國際主題樂園有限公司約53%股權，華特迪士尼公司持有47%。",
+                "importance": "medium",
+                "reason": "反映度假區股權結構，屬百科條目常見的基礎背景資料。",
+                "source_quote": "在 2016 財政年度末，香港特區政府持有主題樂園公司的主要股權 約 53%，餘下的 47% 股權則由迪士尼公司持有。",
+                "page": null,
+                "section": "業務概要",
+                "confidence": 0.97
+            },
+            {
+                "category": "expansion",
+                "statement": "雙方股東於2016年達成原則性協議，推展作價109億港元的擴建及發展計劃。",
+                "importance": "high",
+                "reason": "屬重大長期擴建計劃的正式推進節點，影響園區後續多年發展。",
+                "source_quote": "主題樂園公司的雙方股東在 2016 年達成原則性協議，於樂園推展作價 109 億港元的擴建及發展計劃。",
+                "page": null,
+                "section": "樂園擴建",
+                "confidence": 0.98
+            },
+            {
+                "category": "expansion",
+                "statement": "2016年公布的擴建計劃包括新設漫威主題區、《魔雪奇緣》主題區、重塑城堡，以及於探險世界增設全新娛樂表演。",
+                "importance": "high",
+                "reason": "概括多年擴建的核心內容，對樂園歷史與設施演變具持久重要性。",
+                "source_quote": "建議的擴建及發展計劃包括全新打造兩個分別以漫威及《魔雪奇緣》為 題的主題區、嶄新面貌的城堡將呈獻日與夜不同的舞台表演，以及於探 險世界增設全新娛樂表演。",
+                "page": null,
+                "section": "樂園擴建",
+                "confidence": 0.98
+            },
+            {
+                "category": "expansion",
+                "statement": "按建議時程，擴建計劃預定於2018年至2023年間每年推出至少一項新設施或娛樂項目。",
+                "importance": "medium",
+                "reason": "顯示擴建計劃的實施節奏，可補充發展歷程，但屬計劃性資訊，需次級來源佐證。",
+                "source_quote": "視乎獲立法會批准撥款的時間，計劃將於 2018 至 2023 年期間，每年推出至少一項新設施或娛樂項目。",
+                "page": null,
+                "section": "樂園擴建",
+                "confidence": 0.92
+            },
+            {
+                "category": "employment",
+                "statement": "擴建工程預計可創造3,450個建造業及相關職位，工程完成後樂園將增加600個職位。",
+                "importance": "low",
+                "reason": "屬擴建帶來的預測性就業影響，可作背景資料，但偏屬估算。",
+                "source_quote": "預計未來一段時間可創造 3,450 個 (以人工作年計算) 建造業及相關職位，而完成擴建及發展工程後，樂園更可提供額外 600 個職位。",
+                "page": null,
+                "section": "樂園擴建",
+                "confidence": 0.9
+            },
+            {
+                "category": "ownership",
+                "statement": "迪士尼公司於2016財政年度注資並取得普通股，同時香港特區政府把同等金額貸款轉換為普通股。",
+                "importance": "medium",
+                "reason": "涉及股本結構調整，屬政府與迪士尼之間的重要資本安排。",
+                "source_quote": "迪士尼公司通過注資獲取主題樂園公司的普通股；而香港特區政府亦同 時將同等金額的貸款轉換為普通股。",
+                "page": null,
+                "section": "流動資金",
+                "confidence": 0.93
+            }
+        ],
+        "year": 2016
+    },
+    {
+        "facts": [
+            {
+                "category": "ownership",
+                "statement": "香港迪士尼由香港特別行政區政府與華特迪士尼公司合資成立的香港國際主題樂園有限公司擁有，並由香港迪士尼樂園管理有限公司負責管理；2017財政年度末政府持股約53%，迪士尼持股47%。",
+                "importance": "high",
+                "reason": "Explains the park's ownership and governance structure, a core encyclopedic fact.",
+                "source_quote": "香港迪士尼由香港特別行政區政府 (下稱「香港特區政府」) 及華特迪士尼公司 (下稱「迪士尼公司」) 合資成立的香港國際主題樂園有限公司 (下稱「主題樂園公司」) 所擁有，並由迪士尼公司的全資附屬公司香港迪士尼樂園管理有限公司負責管理。 在 2017 財政年度末，香港特區政府持有主題樂園公司的主要股權約 53%，餘下的 47% 股權則由迪士尼公司持有。",
+                "page": null,
+                "section": "業務概要",
+                "confidence": 0.99
+            },
+            {
+                "category": "attraction",
+                "statement": "漫威主題遊樂設施「鐵甲奇俠飛行之旅」於2017財政年度內開幕。",
+                "importance": "high",
+                "reason": "Major new permanent attraction and the park's first Marvel ride, likely relevant to expansion history.",
+                "source_quote": "威主題遊樂設施「鐵甲奇俠飛行之旅」於香港迪士尼開幕",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.94
+            },
+            {
+                "category": "expansion",
+                "statement": "迪士尼探索家度假酒店於2017年4月開幕，提供750間客房，成為香港迪士尼第三間主題酒店。",
+                "importance": "high",
+                "reason": "A major permanent resort expansion adding a new hotel to the property.",
+                "source_quote": "2017 年 4 月開幕",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.93
+            },
+            {
+                "category": "operations",
+                "statement": "截至2017財政年度，香港迪士尼設有三間主題酒店：迪士尼探索家度假酒店、迪士尼好萊塢酒店及香港迪士尼樂園酒店。",
+                "importance": "medium",
+                "reason": "Useful resort-composition fact, though partly derivative of the new hotel opening.",
+                "source_quote": "香港迪士尼設有三間主題酒店：包括提供 750 間客房的迪士尼探索家度假酒店、 600 間客房的迪士尼好萊塢酒店及 400 間客房的香港迪士尼樂園酒店。",
+                "page": null,
+                "section": "業務概要",
+                "confidence": 0.98
+            },
+            {
+                "category": "expansion",
+                "statement": "香港迪士尼的擴建及發展計劃工程於2017年10月正式展開。",
+                "importance": "high",
+                "reason": "Marks the formal start of a major multi-year expansion program.",
+                "source_quote": "香港迪士尼在 2017 年 10 月正式展開樂園擴建及發展計劃的工程。",
+                "page": null,
+                "section": "擴建及發展計劃",
+                "confidence": 0.99
+            },
+            {
+                "category": "finance",
+                "statement": "香港迪士尼2017年啟動的擴建及發展計劃預算為109億港元，由香港特區政府及迪士尼公司各以股本形式出資一半。",
+                "importance": "high",
+                "reason": "This is a structural capital commitment tied to a major expansion, not a routine annual result.",
+                "source_quote": "該計劃預算作價 109 億港元，由香港特區政府及迪士尼公司以股本形式各出資一半。",
+                "page": null,
+                "section": "擴建及發展計劃",
+                "confidence": 0.98
+            },
+            {
+                "category": "expansion",
+                "statement": "2017年公布的擴建及發展計劃包括新設《魔雪奇緣》主題區、漫威主題區，以及重塑城堡並加入新的日間和夜間表演。",
+                "importance": "high",
+                "reason": "Describes the substantive components of a major long-term redevelopment of the park.",
+                "source_quote": "該計劃將會為賓客呈獻一系列以迪士尼最強品牌為主題的全新遊樂體驗，包括兩個全新打造分別以《魔雪奇緣》及漫威為題的主題區，以及換上煥然一新面貌的城堡並配以兩場嶄新的日與夜精彩表演。",
+                "page": null,
+                "section": "擴建及發展計劃",
+                "confidence": 0.98
+            },
+            {
+                "category": "attraction",
+                "statement": "擴建計劃的首個項目為舞台表演「魔海奇緣凱旋慶典」，預定於2018年5月在探險世界揭幕。",
+                "importance": "medium",
+                "reason": "Part of the documented multi-year expansion rollout; potentially relevant as first delivered project.",
+                "source_quote": "當中的首個項目「魔海奇緣凱旋慶典」全新舞台表演，將率先在 2018 年 5 月於探險世界揭幕。",
+                "page": null,
+                "section": "擴建及發展計劃",
+                "confidence": 0.97
+            }
+        ],
+        "year": 2017
+    },
+    {
+        "facts": [
+            {
+                "category": "ownership",
+                "statement": "截至2018財政年度末，香港特區政府持有香港國際主題樂園有限公司約53%股權，華特迪士尼公司持有47%。",
+                "importance": "medium",
+                "reason": "Ownership structure is core background information for a Wikipedia article on the resort.",
+                "source_quote": "在2018財政年度末，香港特區政府持有主題樂園公司的主要股權約 5 3% ， 餘 下 的 4 7% 股 權 則 由 迪 士 尼 公 司 持 有 。",
+                "page": null,
+                "section": "業務概要",
+                "confidence": 0.98
+            },
+            {
+                "category": "operations",
+                "statement": "2018財政年度時，香港迪士尼設有三間主題酒店，合共提供1,750間客房。",
+                "importance": "medium",
+                "reason": "Resort capacity and hotel inventory are enduring operational facts relevant to encyclopedic coverage.",
+                "source_quote": "香港迪士尼設有三間主題酒店，合共提供1 750 間客房。",
+                "page": null,
+                "section": "業務概要",
+                "confidence": 0.97
+            },
+            {
+                "category": "expansion",
+                "statement": "香港迪士尼的擴建及發展計劃於2017年10月正式動工。",
+                "importance": "high",
+                "reason": "Marks the formal start of a major multi-year expansion of the resort.",
+                "source_quote": "香港迪士尼在2017年10月正式展開樂園擴建及發展計劃的工程。",
+                "page": null,
+                "section": "擴建及發展計劃",
+                "confidence": 0.98
+            },
+            {
+                "category": "attraction",
+                "statement": "擴建計劃首個項目《魔海奇緣凱旋慶典》於2018年5月開幕。",
+                "importance": "high",
+                "reason": "Opening of a named attraction as part of the resort's major expansion plan.",
+                "source_quote": "首個項目「魔海奇緣凱旋慶典」全新舞台表演已率先於2018年5月開幕",
+                "page": null,
+                "section": "擴建及發展計劃",
+                "confidence": 0.98
+            },
+            {
+                "category": "attraction",
+                "statement": "互動遊樂設施《蟻俠與黃蜂女：擊戰特攻！》定於2019年3月31日開幕。",
+                "importance": "medium",
+                "reason": "A specific new attraction in the expansion program; suitable if supported by secondary sources since this was a forward-looking statement in the report.",
+                "source_quote": "緊接下來的項目「蟻俠與黃蜂女：擊戰特攻！」將於2019年3月31日正式登場。",
+                "page": null,
+                "section": "摘要",
+                "confidence": 0.95
+            },
+            {
+                "category": "expansion",
+                "statement": "香港迪士尼公布其後數年的擴建項目包括翻新的城堡、兩場新的日間與夜間表演，以及《魔雪奇緣》與漫威主題區。",
+                "importance": "high",
+                "reason": "Describes the major long-term components of the resort's multi-year expansion.",
+                "source_quote": "其他將在未來數年相繼推出的全新遊樂體驗包括換上煥然一新面貌的城堡，配以兩場嶄新的日與夜精彩表演，以及兩個全新打造分別以《魔雪奇緣》及漫威為題的主題區。",
+                "page": null,
+                "section": "擴建及發展計劃",
+                "confidence": 0.96
+            },
+            {
+                "category": "employment",
+                "statement": "香港迪士尼於2018財政年度平均聘用逾5,200名全職及2,300名兼職員工。",
+                "importance": "medium",
+                "reason": "Staffing scale is a durable operational fact about the resort as a major employer.",
+                "source_quote": "香港迪士尼在2018財政年度平均聘用超過5 200名全職及2 300名兼職員 工",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.97
+            },
+            {
+                "category": "employment",
+                "statement": "香港迪士尼於2018財政年度連續第12年推行「身體有障礙人士學徒計劃」，並聘用約100名身體有障礙人士。",
+                "importance": "low",
+                "reason": "Potentially notable for workforce inclusion, but likely too routine for a main encyclopedia article unless discussed by independent sources.",
+                "source_quote": "於2018財政年度，香港迪士尼連續12年與勞工 處、社會福利署、香港社會服務聯會及40間非政府組織合作推行「 身體有障礙人士學徒計劃」，並聘用了約100名身體有障礙人士。",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.93
+            },
+            {
+                "category": "operations",
+                "statement": "香港迪士尼於2018年3月推出新的網上售票平台。",
+                "importance": "low",
+                "reason": "Operationally real but probably too routine and promotional for Wikipedia unless tied to broader digital transformation coverage.",
+                "source_quote": "全新的香港迪士尼網上售票平台於2018年3月推出後，網 上銷售預訂增加。",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.9
+            },
+            {
+                "category": "operations",
+                "statement": "廣深港高速鐵路香港段通車當日，香港迪士尼於西九龍站設立「奇妙直通」客務中心。",
+                "importance": "low",
+                "reason": "A specific transport-service measure that may be too temporary or minor for encyclopedic inclusion.",
+                "source_quote": "於廣深港高速鐵路香港段開通的第一天，香港迪士尼於香港西九龍站同步開設「奇妙直 通」客務中心",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.94
+            }
+        ],
+        "year": 2018
+    },
+    {
+        "facts": [
+            {
+                "category": "attraction",
+                "statement": "「蟻俠與黃蜂女：擊戰特攻！」於2019年3月在香港迪士尼開幕，為園內第二個以Marvel超級英雄為主題的遊樂設施。",
+                "importance": "high",
+                "reason": "新設施正式開幕，屬園區發展的重要里程碑，可補充樂園擴建與主題演變。",
+                "source_quote": "作為香港迪士尼股東對樂園持續投資的其中一個項目，「蟻俠與黃蜂女：擊戰特攻！」於 2019 年 3 月正式登場",
+                "page": null,
+                "section": "摘要",
+                "confidence": 0.98
+            },
+            {
+                "category": "expansion",
+                "statement": "香港迪士尼表示「奇妙夢想城堡」將於2020年揭幕。",
+                "importance": "medium",
+                "reason": "屬大型地標設施的預告，對樂園發展方向有一定重要性，但仍需以後續來源確認實際開幕情況。",
+                "source_quote": "「奇妙夢想城堡」將於 2020 年隆重揭幕",
+                "page": null,
+                "section": "摘要",
+                "confidence": 0.94
+            },
+            {
+                "category": "expansion",
+                "statement": "香港迪士尼在2019財政年度正進行新階段擴建及發展計劃，包括新增以迪士尼故事為主題的遊樂設施和節目。",
+                "importance": "medium",
+                "reason": "可作為2010年代後期擴建工程的概括性背景，但表述較籠統，宜配合其他來源使用。",
+                "source_quote": "樂園現正進行新階段擴建及發展計劃，將增設多項以迪士尼最受歡迎的故事而打造全新遊樂設施和節目",
+                "page": null,
+                "section": "業務概要",
+                "confidence": 0.88
+            },
+            {
+                "category": "ownership",
+                "statement": "截至2019財政年度末，香港特區政府持有香港國際主題樂園有限公司約53%股權，華特迪士尼公司持有其餘47%。",
+                "importance": "high",
+                "reason": "股權結構屬百科條目核心資料，對理解樂園的管治與公私合營性質十分重要。",
+                "source_quote": "在2019財政年度末，香港特區政府持有主題樂園公司的主要股權約53%，餘下的47%股權則由迪士尼公司持有。",
+                "page": null,
+                "section": "業務概要",
+                "confidence": 0.99
+            },
+            {
+                "category": "ownership",
+                "statement": "香港迪士尼由香港國際主題樂園有限公司擁有，並由香港迪士尼樂園管理有限公司負責管理。",
+                "importance": "medium",
+                "reason": "有助釐清擁有與管理架構，屬條目背景資訊。",
+                "source_quote": "香港迪士尼由香港特別行政區政府...及華特迪士尼公司...合資成立的香港國際主題樂園有限公司...所擁有，並由迪士尼公司的全資附屬公司香港迪士尼樂園管理有限公司負責管理。",
+                "page": null,
+                "section": "業務概要",
+                "confidence": 0.97
+            },
+            {
+                "category": "operations",
+                "statement": "香港迪士尼設有三間主題酒店，合共提供1,750間客房。",
+                "importance": "medium",
+                "reason": "屬度假區規模與設施構成的基本資料，可用於條目概述。",
+                "source_quote": "香港迪士尼設有三間主題酒店，合共提供1 750 間客房。",
+                "page": null,
+                "section": "業務概要",
+                "confidence": 0.99
+            },
+            {
+                "category": "operations",
+                "statement": "2019財政年度第四季，香港社會狀況轉變令香港迪士尼的業務表現由此前的增長趨勢大幅逆轉。",
+                "importance": "high",
+                "reason": "反映2019年香港局勢對樂園營運造成明顯轉折，屬非例行且具歷史背景的重要事件。",
+                "source_quote": "在2019財政年度第四季(2019年7月至9月)，樂園業務表現趨勢大幅逆轉",
+                "page": null,
+                "section": "摘要",
+                "confidence": 0.93
+            },
+            {
+                "category": "other",
+                "statement": "香港迪士尼於度假區內裝設3,500塊太陽能板，報告稱其為全港最大型太陽能發電系統；連同2019年12月加裝的1,000塊太陽能板，年總發電量逾186萬度電。",
+                "importance": "medium",
+                "reason": "若屬實且可由獨立來源佐證，這是度假區基建與環保措施中較具規模的長期設施。",
+                "source_quote": "香港迪士尼亦推出另一項大型環保項目，於度假區內裝設3 500塊太陽能板，每年產生可再生電力總發電量逾140萬度電，為全港最大型的太陽能發電系統...連同於2019年12月裝設的1 000塊太陽能板，每年總發電量達至逾186萬度電",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.9
+            },
+            {
+                "category": "employment",
+                "statement": "香港迪士尼在2019財政年度平均聘用超過5,500名全職及2,400名兼職員工。",
+                "importance": "low",
+                "reason": "屬規模資料，但年度僱員數字變動通常較例行，百科價值有限。",
+                "source_quote": "在2019財政年度平均聘用超過5 500名全職及2 400名兼職員工",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.98
+            }
+        ],
+        "year": 2019
+    },
+    {
+        "facts": [
+            {
+                "category": "operations",
+                "statement": "香港迪士尼在2020財政年度因2019冠狀病毒病相關措施關閉217天，約佔曆日近60%。",
+                "importance": "high",
+                "reason": "長時間停運屬重大營運中斷，對樂園歷史與營運有持久影響。",
+                "source_quote": "根據政府在2019冠狀病毒病疫情期間的建議和要求，香港迪士尼的主題樂園在2020財政年度關閉共217天",
+                "page": null,
+                "section": "主要業績數據及財務摘要",
+                "confidence": 0.98
+            },
+            {
+                "category": "finance",
+                "statement": "香港迪士尼於2021財政年度開始動用華特迪士尼公司早於2017年提供的21億港元周轉信貸，以支援營運資金和業務需要。",
+                "importance": "high",
+                "reason": "反映疫情期間出現重要融資轉折，屬可能影響樂園營運方向的結構性財務措施。",
+                "source_quote": "迪士尼公司在2017年給予香港迪士尼的21億港元周轉信貸，截至 2020財政年度末尚未使用。香港迪士尼在 2021 財政年度開始使用這筆周轉信貸，以支援營運資金和業務上的需要。",
+                "page": null,
+                "section": "流動資金",
+                "confidence": 0.97
+            },
+            {
+                "category": "ownership",
+                "statement": "截至2020財政年度末，香港特區政府持有香港國際主題樂園有限公司約52%股權，華特迪士尼公司持有其餘48%。",
+                "importance": "medium",
+                "reason": "股權結構屬百科條目常見基礎資料；如條目未完整交代，可考慮補充。",
+                "source_quote": "在2020財政年度末，香港特區政府持有主題樂園公司的主要股權約52%，餘下的48%股權則由迪士尼公司持有。",
+                "page": null,
+                "section": "業務概要",
+                "confidence": 0.99
+            },
+            {
+                "category": "expansion",
+                "statement": "香港迪士尼的新階段擴建及發展計劃因2019冠狀病毒病疫情及其他因素對市場情況造成負面影響而有所延遲。",
+                "importance": "high",
+                "reason": "涉及既有擴建計劃時程變動，屬具持久性的發展里程碑。",
+                "source_quote": "樂園正持續推進新階段擴建及發展計劃，陸續增設多項以迪士尼最受歡迎的故事所締造的全新賓客體驗，包括近期開幕的「奇妙夢想城堡」，但該計劃的進度因2019冠狀病毒病疫情及其他因素對市場情況造成負面影響而有所延遲。",
+                "page": null,
+                "section": "業務概要",
+                "confidence": 0.95
+            },
+            {
+                "category": "attraction",
+                "statement": "「奇妙夢想城堡」已於2020年11月登場。",
+                "importance": "high",
+                "reason": "屬樂園重要新地標與主要建設項目完成時間點。",
+                "source_quote": "在2021財政年度，香港迪士尼將繼續推廣15周年慶典和於2020年11月登場的「奇妙夢想城堡」",
+                "page": null,
+                "section": "摘要",
+                "confidence": 0.93
+            },
+            {
+                "category": "employment",
+                "statement": "香港迪士尼在2020財政年度平均聘用逾5,300名全職及1,800名兼職員工。",
+                "importance": "low",
+                "reason": "屬單一年度營運數字，雖反映規模，但百科價值有限。",
+                "source_quote": "香港迪士尼在2020財政年度平均聘用超過5 300名全職及1 800名兼職員工，為香港旅遊及家庭娛樂行業最大僱主之一。",
+                "page": null,
+                "section": "業務概要",
+                "confidence": 0.9
+            }
+        ],
+        "year": 2020
+    },
+    {
+        "facts": [
+            {
+                "category": "operations",
+                "statement": "香港迪士尼在2021財政年度因防疫措施須關閉主題樂園約兩個半月，並在園區及餐廳實施人數限制和社交距離措施。",
+                "importance": "medium",
+                "reason": "疫情期間的長時間停運與營運限制屬影響樂園運作的重要事件。",
+                "source_quote": "措施包括必須關閉主題樂園約兩個半月，以及在主題樂園、餐廳及所有其他適用的表列處所內，實施賓客人數限制及其他社交距離措施。",
+                "page": null,
+                "section": "摘要",
+                "confidence": 0.96
+            },
+            {
+                "category": "attraction",
+                "statement": "「奇妙夢想城堡」於2020年11月開幕，成為香港迪士尼的新地標。",
+                "importance": "high",
+                "reason": "屬園區標誌性設施的重大更新，可作為樂園發展里程碑。",
+                "source_quote": "「奇妙夢想城堡」在2020年11月華麗登場，成為香港迪士尼的全新地標並象徵度假區踏入全新里程",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.98
+            },
+            {
+                "category": "attraction",
+                "statement": "全新日間匯演「迪士尼尋夢奇緣」於2021年6月登場，於奇妙夢想城堡前上演。",
+                "importance": "medium",
+                "reason": "新增常設娛樂節目，與城堡改造項目直接相關。",
+                "source_quote": "全新日間匯演「迪士尼尋夢奇緣」於2021年6月登場，在瑰麗城堡前隆重上演。",
+                "page": null,
+                "section": "摘要",
+                "confidence": 0.97
+            },
+            {
+                "category": "ownership",
+                "statement": "截至2021財政年度末，香港特區政府持有香港國際主題樂園有限公司約52%股權，迪士尼公司持有48%。",
+                "importance": "high",
+                "reason": "反映樂園的股權結構，屬百科條目核心背景資料。",
+                "source_quote": "在2021財政年度末，香港特區政府持有主題樂園公司的主要股權約52%，餘下的48%股權則由迪士尼公司持有。",
+                "page": null,
+                "section": "業務概要",
+                "confidence": 0.99
+            },
+            {
+                "category": "operations",
+                "statement": "香港迪士尼設有三間主題酒店，合共提供1,750間客房。",
+                "importance": "medium",
+                "reason": "屬度假區規模與設施構成的基本資料。",
+                "source_quote": "香港迪士尼設有三間主題酒店，合共提供1 750 間客房。",
+                "page": null,
+                "section": "業務概要",
+                "confidence": 0.99
+            },
+            {
+                "category": "employment",
+                "statement": "香港迪士尼在2021財政年度平均聘用約5,000名全職員工及超過1,200名兼職員工。",
+                "importance": "medium",
+                "reason": "可反映度假區作為大型僱主的規模，但仍需視條目篇幅決定是否納入。",
+                "source_quote": "香港迪士尼在2021財政年度平均聘用約5 000名全職及超過1 200名兼職員工",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.97
+            },
+            {
+                "category": "other",
+                "statement": "香港迪士尼在2021財政年度把太陽能發電系統擴展至5,200塊太陽能板，報告稱其自2019年起為全港最大型太陽能發電系統。",
+                "importance": "low",
+                "reason": "具一定基建與可持續發展參考價值，但百科重要性較邊緣，且相關「全港最大」說法宜以獨立來源核實。",
+                "source_quote": "在2021財政年度，香港迪士尼已擴展太陽能發電系統至共有5 200塊太陽能板，繼續成為2019年以來全港最大型的太陽能發電系統。",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.89
+            },
+            {
+                "category": "finance",
+                "statement": "香港迪士尼於2021財政年度開始動用迪士尼公司在2017年提供的21億港元周轉信貸，以支援營運資金和業務需要。",
+                "importance": "medium",
+                "reason": "屬疫情下資金安排的實質變化，可能反映經營壓力與融資依賴。",
+                "source_quote": "迪士尼公司在2017年給予香港迪士尼21億港元周轉信貸。香港迪士尼在 2021 財政年度開始動用這筆周轉信貸，以支援營運資金和業務上的需要。",
+                "page": null,
+                "section": "流動資金",
+                "confidence": 0.98
+            }
+        ],
+        "year": 2021
+    },
+    {
+        "facts": [
+            {
+                "category": "operations",
+                "statement": "香港迪士尼在2022財政年度因防疫措施曾關閉約三個半月，並於年內實施賓客人數限制及社交距離規定。",
+                "importance": "medium",
+                "reason": "疫情期間較長時間停運屬對樂園營運有持續影響的重要事件，可作為疫情影響歷史的一部分。",
+                "source_quote": "其中，主題樂園必須關閉的時間較上一個年度更長，為期約三個半月，年內並實施賓客人數限制、社交距離規定和其他限制措施。",
+                "page": null,
+                "section": "摘要",
+                "confidence": 0.95
+            },
+            {
+                "category": "attraction",
+                "statement": "城堡夜間匯演「迪士尼星夢光影之旅」於2022年6月在香港迪士尼首演。",
+                "importance": "high",
+                "reason": "屬新增大型常設娛樂項目，對樂園內容與遊客體驗有較長遠影響。",
+                "source_quote": "在2022年6月，於瑰麗動人的「奇妙夢想城堡」上演的全新夜間匯演「迪士尼星夢光影之旅」矚目登場。",
+                "page": null,
+                "section": "摘要",
+                "confidence": 0.98
+            },
+            {
+                "category": "finance",
+                "statement": "華特迪士尼公司在2022財政年度延後收取專利權費，並於2022年11月把向香港迪士尼提供的周轉信貸由21億港元增至27億港元。",
+                "importance": "high",
+                "reason": "屬因疫情與流動資金壓力而作出的母公司支援安排，反映財務結構上的重要應對措施。",
+                "source_quote": "為體現對度假區的支持，華特迪士尼公司與一間或以上的附屬公司（下稱「迪士尼」）在2022財政年度推遲收取專利權費，並將其提供的周轉信貸於2022年11月由21億港元增至27億港元。",
+                "page": null,
+                "section": "摘要",
+                "confidence": 0.96
+            },
+            {
+                "category": "ownership",
+                "statement": "截至2022財政年度末，香港特區政府持有香港國際主題樂園有限公司約52%股權，迪士尼持有其餘48%。",
+                "importance": "medium",
+                "reason": "屬樂園股權結構的基本資料，適合在條目所有權或公司架構段落簡要交代。",
+                "source_quote": "在2022財政年度末，香港特區政府持有主題樂園公司的主要股權約52%，餘下的48%股權則由迪士尼持有。",
+                "page": null,
+                "section": "業務概要",
+                "confidence": 0.99
+            },
+            {
+                "category": "expansion",
+                "statement": "以《魔雪奇緣》為主題的新園區「魔雪奇緣世界」預計於2023年下半年開幕。",
+                "importance": "medium",
+                "reason": "屬正在推進的重大擴建計劃，可作為樂園發展時間線的一部分；但開幕時間仍需以後續來源確認。",
+                "source_quote": "以迪士尼大熱動畫電影「魔雪奇緣」為靈感的全新主題園區 -「魔雪奇緣世界」預計於2023年下半年矚目登場",
+                "page": null,
+                "section": "摘要",
+                "confidence": 0.93
+            },
+            {
+                "category": "operations",
+                "statement": "香港迪士尼於2022年3月推出網上電子商貿平台。",
+                "importance": "low",
+                "reason": "屬營運模式變化，但百科重要性較邊緣，需視乎有無更多獨立來源證明其長期影響。",
+                "source_quote": "為了在樂園關閉期間推動商品銷售並把握電子商貿機會，香港迪士尼亦於2022年3月推出網上電子商貿平台。",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.91
+            },
+            {
+                "category": "attraction",
+                "statement": "香港迪士尼於2022財政年度將遊樂設施快速通行服務重新命名為「迪士尼尊享卡」，並推出相關優化措施。",
+                "importance": "low",
+                "reason": "屬賓客服務調整，可能可補充營運演變，但整體百科價值有限。",
+                "source_quote": "包括就遊樂設施快速通行進行項目提升，並將其命名為「迪士尼尊享卡」，同時推出數項全新優化措施。",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.84
+            },
+            {
+                "category": "employment",
+                "statement": "香港迪士尼在2022財政年度取消無薪假安排。",
+                "importance": "medium",
+                "reason": "反映疫情期間人力政策的重要改變，對員工安排具實質影響。",
+                "source_quote": "在疫情下再一年保障員工就業，並取消無薪假安排。",
+                "page": null,
+                "section": "摘要",
+                "confidence": 0.92
+            },
+            {
+                "category": "employment",
+                "statement": "香港迪士尼在2022財政年度平均聘用約4,700名全職及1,400名兼職員工。",
+                "importance": "low",
+                "reason": "屬年度僱員概況，除非用於概述其作為大型僱主的地位，否則一般百科價值有限。",
+                "source_quote": "香港迪士尼在2022財政年度平均聘用約4 700名全職及1 400名兼職員工，繼續為本港旅遊及家庭娛樂行業最大僱主之一。",
+                "page": null,
+                "section": "僱員",
+                "confidence": 0.95
+            }
+        ],
+        "year": 2022
+    },
+    {
+        "facts": [
+            {
+                "category": "attraction",
+                "statement": "全球首個及最大型的《魔雪奇緣》主題園區「魔雪奇緣世界」於2023年11月在香港迪士尼樂園開幕。",
+                "importance": "high",
+                "reason": "Major permanent expansion likely suitable for encyclopedic coverage",
+                "source_quote": "全球首個及最大型的《魔雪奇緣》主題園區 - 魔雪奇緣世界於 2023 年 11 月在香港迪士尼樂園開幕，為度假區奠下重要里程碑。",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.99
+            },
+            {
+                "category": "operations",
+                "statement": "香港迪士尼樂園自2023年6月起把營運日數調整為每周六日至七日，以配合需求回升。",
+                "importance": "medium",
+                "reason": "Operational change marking post-pandemic normalization, though may need secondary sourcing",
+                "source_quote": "主題樂園已經由 2023 年 6 月起調整營運日數至每周六日或七日，以滿足賓客需求。",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.94
+            },
+            {
+                "category": "operations",
+                "statement": "迪士尼探索家酒店於2023年4月恢復每周七日營運。",
+                "importance": "low",
+                "reason": "Operational resumption is factual but relatively routine and may be too minor for inclusion",
+                "source_quote": "迪士尼探索家酒店亦於 2023 年 4 月恢復每周七日營運。",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.93
+            },
+            {
+                "category": "operations",
+                "statement": "迪士尼好萊塢酒店於2023年7月完成翻新後以新面貌重開，分階段工程包括翻新的大堂及兩間餐廳。",
+                "importance": "medium",
+                "reason": "Reopening of one of the resort hotels after refurbishment may merit mention if covered independently",
+                "source_quote": "迪士尼好萊塢酒店於 2023 年 7 月以新面貌登場，並在分階段裝修工程下帶來全新裝潢的大堂及兩間餐廳",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.95
+            },
+            {
+                "category": "attraction",
+                "statement": "「華特・迪士尼與米奇老鼠銅像－創夢家」於2023年10月在香港迪士尼亮相。",
+                "importance": "medium",
+                "reason": "Permanent new monument/installment may be relevant to park history and features",
+                "source_quote": "加上於 2023 年 10 月曯目登場的「華特・迪士尼與米奇老鼠銅像 - 創夢家」和 2023 年 11 月開幕的魔雪奇緣世界",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.9
+            },
+            {
+                "category": "ownership",
+                "statement": "截至2023財政年度末，香港特區政府持有香港國際主題樂園有限公司約52%股權，迪士尼持有其餘48%。",
+                "importance": "medium",
+                "reason": "Ownership structure is core background information for the resort",
+                "source_quote": "在2023財政年度末，香港特區政府持有主題樂園公司的主要股權約52%，餘下的48%股權則由迪士尼持有。",
+                "page": null,
+                "section": "業務概要",
+                "confidence": 0.98
+            },
+            {
+                "category": "finance",
+                "statement": "香港迪士尼於2023年12月全數償還疫情期間動用的迪士尼周轉信貸。",
+                "importance": "medium",
+                "reason": "Repayment of emergency credit may indicate an important post-pandemic financial turning point",
+                "source_quote": "香港迪士尼及後於 2023 年 12 月全數還清該周轉信貸。",
+                "page": null,
+                "section": "摘要／流動資金註腳",
+                "confidence": 0.96
+            },
+            {
+                "category": "employment",
+                "statement": "香港迪士尼於2023財政年度平均僱用約4,970名全職及2,050名兼職員工。",
+                "importance": "low",
+                "reason": "Employment scale is factual but annual staffing levels are usually routine unless tied to a major change",
+                "source_quote": "在2023財政年度，香港迪士尼平均僱用約4 970名全職及2 050名兼職員工，繼續為本港旅遊及家庭娛樂行業最大僱主之一。",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.97
+            },
+            {
+                "category": "other",
+                "statement": "香港迪士尼表示園內設有全港最大型的太陽能發電系統，並於年內公布在行政大樓停車場加裝太陽能上蓋。",
+                "importance": "low",
+                "reason": "Potentially notable sustainability infrastructure, but the claim needs independent verification and is partly promotional",
+                "source_quote": "香港迪士尼設有全港目前最大型的太陽能發電系統，並在今年進一步履行其對保護環境的承諾。香港迪士尼在年內宣佈在其行政大樓停車場安裝太陽能上蓋，預計在竣工後將成為香港首個同類項目。",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.78
+            }
+        ],
+        "year": 2023
+    },
+    {
+        "facts": [
+            {
+                "category": "expansion",
+                "statement": "香港迪士尼的《魔雪奇緣》主題園區「魔雪奇緣世界」於2023年11月開幕，為全球首個及最大型《魔雪奇緣》主題園區。",
+                "importance": "high",
+                "reason": "Major permanent expansion with clear first-of-its-kind significance",
+                "source_quote": "特別是全球首個及最大型《魔雪奇緣》主題園區-魔雪奇緣世界於2023年11月的盛大開幕。",
+                "page": null,
+                "section": "摘要",
+                "confidence": 0.98
+            },
+            {
+                "category": "attraction",
+                "statement": "「魔雪奇緣世界」設有沉浸式互動劇場體驗「森林小天地」。",
+                "importance": "medium",
+                "reason": "Named new attraction within a major land expansion; may merit mention if covered by independent sources",
+                "source_quote": "魔雪奇緣世界除了全新熱門遊樂設施外，更推出沉浸式互動劇場體驗「森林小天地」",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.93
+            },
+            {
+                "category": "ownership",
+                "statement": "截至2024財政年度末，香港特區政府持有香港國際主題樂園有限公司約52%股權，迪士尼持有其餘48%。",
+                "importance": "medium",
+                "reason": "Core ownership structure relevant to encyclopedia coverage, though likely already documented",
+                "source_quote": "在2024財政年度末，香港特區政府持有主題樂園公司的主要股權約52%，餘下的48%股權則由迪士尼持有。",
+                "page": null,
+                "section": "業務概要",
+                "confidence": 0.97
+            },
+            {
+                "category": "operations",
+                "statement": "香港迪士尼設有三間主題酒店，合共提供1,750間客房。",
+                "importance": "medium",
+                "reason": "Stable descriptive fact about resort scale and facilities",
+                "source_quote": "香港迪士尼設有三間主題酒店，合共提供1 750 間客房。",
+                "page": null,
+                "section": "業務概要",
+                "confidence": 0.99
+            },
+            {
+                "category": "finance",
+                "statement": "香港迪士尼於2024財政年度開始償還股東貸款，並在財政年度結束前償還逾40%的貸款餘額。",
+                "importance": "high",
+                "reason": "Financial turning point indicating a change in the resort's debt position after earlier reliance on shareholder support",
+                "source_quote": "香港迪士尼已開始償還股東提供的貸款，並已在2024財政年度完結前償還逾40%的貸款餘額。",
+                "page": null,
+                "section": "摘要",
+                "confidence": 0.96
+            },
+            {
+                "category": "finance",
+                "statement": "香港迪士尼於2024財政年度未有再動用迪士尼提供的周轉信貸，並已全數償還先前提取的餘額。",
+                "importance": "high",
+                "reason": "Financial turning point showing exit from reliance on revolving credit support",
+                "source_quote": "香港迪士尼並未再動用迪士尼給予的周轉信貸，並已全數償還所提取餘額。",
+                "page": null,
+                "section": "流動資金",
+                "confidence": 0.97
+            },
+            {
+                "category": "attraction",
+                "statement": "香港迪士尼計劃於2025年20週年慶典推出開幕以來最大型巡遊表演「Friendtastic!」。",
+                "importance": "medium",
+                "reason": "Potentially notable new entertainment offering tied to the resort's 20th anniversary, but still forward-looking in this report",
+                "source_quote": "香港迪士尼將推出開幕以來最大型巡遊表演-全新「 Friendtastic! 」",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.9
+            }
+        ],
+        "year": 2024
+    },
+    {
+        "facts": [
+            {
+                "category": "finance",
+                "statement": "香港迪士尼於2025財政年度末已向股東全數償還所有貸款，首次實現「零貸款」。",
+                "importance": "high",
+                "reason": "屬於財務結構的重要轉折，反映公司資本結構和財務狀況出現具持續性的變化。",
+                "source_quote": "在 2025 財政年度完結前，香港迪士尼已向股東全數償還所有貸款，首次實現「零貸款」",
+                "page": null,
+                "section": "摘要",
+                "confidence": 0.98
+            },
+            {
+                "category": "ownership",
+                "statement": "截至2025財政年度末，香港特區政府持有香港國際主題樂園有限公司約52%股權，迪士尼持有其餘48%。",
+                "importance": "medium",
+                "reason": "屬於度假區擁有權結構的基本資料，可用於更新條目中的股權資訊。",
+                "source_quote": "於2025財政年度末，香港特區政府持有主題樂園公司主要股權，約52%，而其餘48%股權則由迪士尼持有。",
+                "page": null,
+                "section": "業務概要",
+                "confidence": 0.97
+            },
+            {
+                "category": "attraction",
+                "statement": "香港迪士尼於2025財政年度展開20周年慶典，推出「迪士尼好友巡遊派對！」、「迪士尼好友Live：城堡派對」及「迪士尼星夢光影之旅：星空派對」等新節目。",
+                "importance": "medium",
+                "reason": "屬於周年慶典中的主要新娛樂項目，部分節目具代表性，可能值得在園區歷史或娛樂節目段落提及。",
+                "source_quote": "20周年奇妙派對」，當中包括自開幕以來最盛大的巡遊表演「迪士尼好友巡遊派對！」、日間城堡表演「迪士尼好友Live：城堡派對」，以及「20周年」特別版夜間匯演「迪士尼星夢光影之旅：星空派對」。",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.94
+            },
+            {
+                "category": "attraction",
+                "statement": "「森林河流之旅」於2025財政年度完成重新構想，改以演藝人員主導的故事敘述及互動形式呈現。",
+                "importance": "medium",
+                "reason": "涉及既有設施的實質改版，可作為園內主要遊樂設施更新的候選內容。",
+                "source_quote": "「森林河流之旅」經過重新構想並透過以演藝人員主導的故事敘述方式和賓客進行互動",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.9
+            },
+            {
+                "category": "attraction",
+                "statement": "「米奇幻想曲」翻新後於2025財政年度重新開幕，加入升級技術及《玩轉極樂園》新場景。",
+                "importance": "medium",
+                "reason": "屬於現有劇場設施的明顯更新，可能值得在景點介紹中補充。",
+                "source_quote": "「米奇幻想曲」經翻新後重新開幕，加入升級技術和深受喜愛的迪士尼及Pixar電影《玩轉極樂園》全新場景。",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.95
+            },
+            {
+                "category": "attraction",
+                "statement": "主題餐廳「碧林餐廳」已升級為「領航者薈館」，並加入《魔海奇緣》主題元素及提供清真認證食品。",
+                "importance": "medium",
+                "reason": "涉及園內餐飲設施的更名與主題重塑，且清真餐飲供應具一定實用與區域旅遊意義。",
+                "source_quote": "另一項創意升級是將主題餐廳「碧林餐廳」提升為「領航者薈館」，並融入迪士尼人氣電影《魔海奇緣》元素。為配合香港的旅遊策略，全新餐廳提供由專業主廚及其團隊打造的清真認證食品",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.93
+            },
+            {
+                "category": "operations",
+                "statement": "香港迪士尼於東涌東薈城名店倉開設零售店「香港迪士尼樂園尋寶店」。",
+                "importance": "low",
+                "reason": "屬園外零售延伸，可能有助補充營運資訊，但百科重要性較有限。",
+                "source_quote": "此外，香港迪士尼亦於東涌東薈城名店倉開設全新零售店「香港迪士尼樂園尋寶店」。",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.96
+            },
+            {
+                "category": "attraction",
+                "statement": "「魔雪奇緣世界」於2024年聖誕期間首次推出飄雪時刻。",
+                "importance": "low",
+                "reason": "屬季節性節目更新，除非有獨立來源證明其長期影響，否則百科價值有限。",
+                "source_quote": "於2025財政年度，「魔雪奇緣世界」於聖誕期間首度呈獻飄雪時刻",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.9
+            },
+            {
+                "category": "attraction",
+                "statement": "香港迪士尼於2025年萬聖節活動推出由迪士尼反派角色領銜的巡遊項目「惡人反轉大街派對」。",
+                "importance": "low",
+                "reason": "屬季節性娛樂節目，較可能是短期活動，百科收錄價值有限。",
+                "source_quote": "在2025年萬聖節主題活動中，香港迪士尼推出全新由惡人角色領銜的巡遊項目「惡人反轉大街派對」",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.93
+            },
+            {
+                "category": "expansion",
+                "statement": "香港迪士尼表示將持續推進Marvel主題體驗及全新Pixar主題娛樂體驗。",
+                "importance": "low",
+                "reason": "屬前瞻性計劃表述，除非後續落實並有獨立報導，否則不宜作為既成事實寫入條目。",
+                "source_quote": "加上持續推進的擴建計劃如Marvel主題體驗",
+                "page": null,
+                "section": "摘要",
+                "confidence": 0.79
+            },
+            {
+                "category": "other",
+                "statement": "香港迪士尼表示其太陽能停車場上蓋項目為全港首個且最大型。",
+                "importance": "medium",
+                "reason": "如屬實且有獨立來源支持，這是具體而可驗證的基建與可持續發展里程碑。",
+                "source_quote": "得獎的關鍵舉措包括建設全港首個且最大型的太陽能停車場上蓋項目",
+                "page": null,
+                "section": "營運摘要",
+                "confidence": 0.88
+            }
+        ],
+        "year": 2025
+    }
+]

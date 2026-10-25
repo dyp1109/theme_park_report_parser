@@ -6,15 +6,12 @@ from concurrent.futures import ThreadPoolExecutor
 import asyncio
 
 from liteparse import LiteParse
-from openai import AsyncOpenAI
+
+from client import DEFAULT_MODEL, get_openai_client
 
 
 FINANCIAL_STATEMENT_KEYWORD = r"^\#?\s*\w*(業績數據)\w+(財務摘要)\w*\s*"
 FINANCIAL_STATEMENT_ENDWORD = r"^\#?\s*\w*(流動資金)\w*\s*"
-
-DEFAULT_BASE_URL = "https://api.openai.com/v1"
-DEFAULT_MODEL = "gpt-5.4"
-API_KEY_ENV_VAR = "AZURE_OPENAI_API_KEY"
 
 SYSTEM_PROMPT = """
 You are given an excerpt from a Hong Kong Disneyland (香港迪士尼) annual business review.
@@ -50,16 +47,6 @@ confidence is "high", "medium", or "low".
 If a figure is missing, set it to null and say so in evidence.
 """
 
-def get_openai_client():
-    api_key = os.environ.get(API_KEY_ENV_VAR)
-    base_url = os.environ.get(DEFAULT_BASE_URL)
-    if not api_key:
-        raise RuntimeError(
-            f"Missing {API_KEY_ENV_VAR}. Set it before running this script."
-        )
-    client = AsyncOpenAI(api_key=api_key, base_url=base_url)
-    return client
-
 async def parse_metric_with_openai(client, text):
 
     # client = openai.OpenAI(base_url=DEFAULT_BASE_URL, api_key=api_key)
@@ -89,6 +76,10 @@ async def parse_metric_with_openai(client, text):
 
 def extract_financial_text(parser, pdf_path):    
     result = parser.parse(pdf_path)
+    name = os.path.splitext(os.path.basename(pdf_path))[0] + ".md"
+    parsed_dir = os.path.join(os.path.dirname(pdf_path), "parsed")
+    with open(os.path.join(parsed_dir, name), "w", encoding="utf-8") as f:
+        f.write(result.text)
     financial_statement_match = re.search(FINANCIAL_STATEMENT_KEYWORD, result.text, re.MULTILINE)
     statement_end_match = re.search(FINANCIAL_STATEMENT_ENDWORD, result.text, re.MULTILINE)
     if financial_statement_match:
@@ -122,6 +113,9 @@ def parse_reports(pdf_dir):
         if file.endswith('.pdf'):
             pdf_path = os.path.join(pdf_dir, file)
             pdf_paths.append(pdf_path)
+
+    parsed_dir = os.path.join(pdf_dir, "parsed")
+    os.makedirs(parsed_dir, exist_ok=True)
 
     with LiteParse(output_format="markdown", pool_size=8) as parser:
         with ThreadPoolExecutor(max_workers=8) as executor:

@@ -9,13 +9,10 @@ from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor
 import asyncio
 
 import pymupdf
-from openai import AsyncOpenAI
 from liteparse import LiteParse
 
+from client import DEFAULT_MODEL, get_openai_client
 
-DEFAULT_BASE_URL = "https://api.openai.com/v1"
-DEFAULT_MODEL = "gpt-5.4"
-API_KEY_ENV_VAR = "AZURE_OPENAI_API_KEY"
 METRIC_CONFIG = {
     "surplus": {
         "instruction": """Extract the surplus/deficit for the year.
@@ -73,18 +70,6 @@ confidence is "high", "medium", or "low".
 If the requested figure cannot be found on this page, set it to null and explain in evidence.
 If the reporting year is a consecutive range (e.g. 2020-2021), return the later year (e.g. 2021).
 """
-
-def get_openai_client():
-    # image_b64 = base64.b64encode(image_bytes).decode("utf-8")
-    api_key = os.environ.get(API_KEY_ENV_VAR)
-    base_url = os.environ.get(DEFAULT_BASE_URL)
-    if not api_key:
-        raise RuntimeError(
-            f"Missing {API_KEY_ENV_VAR}. Set it before running this script."
-        )
-
-    client = AsyncOpenAI(base_url=base_url, api_key=api_key)
-    return client
 
 async def parse_metric_with_openai(client, text, metric):
     response = await client.chat.completions.create(
@@ -266,8 +251,14 @@ def parse_reports(pdf_dir):
 
     print(f"Time taken parse page: {time.time() - start_time} seconds")
 
+    parsed_dir = os.path.join(pdf_dir, "parsed")
+    os.makedirs(parsed_dir, exist_ok=True)
+
     candidates = []
-    for result in results:
+    for split_path, result in zip(split_paths, results):
+        name = os.path.splitext(os.path.basename(split_path))[0] + ".md"
+        with open(os.path.join(parsed_dir, name), "w", encoding="utf-8") as f:
+            f.write(result.text)
         pages = result.text.split("-----")
         for metric in METRIC_CONFIG:
             for idx, page in enumerate(pages):
@@ -284,8 +275,6 @@ def parse_reports(pdf_dir):
     for item in metric_data:
         item["year"] = int(item["year"]) if item["year"] is not None else 0
     metric_data.sort(key=lambda x: (x["year"], x["type"]))
-    with open('review_metric_data.json', 'w') as f:
-        json.dump(metric_data, f, ensure_ascii=False, indent=2)
     metric_data = aggregate_metric_data(metric_data)
 
     output_path = f"metric_data.json"
@@ -295,4 +284,4 @@ def parse_reports(pdf_dir):
 
 
 if __name__ == '__main__':
-    parse_reports('./annual_report_os')
+    parse_reports('./test')

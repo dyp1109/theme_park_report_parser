@@ -1,14 +1,17 @@
 import argparse
 import base64
 import os
+import sys
 from pathlib import Path
 
 import openai
 import pymupdf
 
-DEFAULT_BASE_URL = "https://api.openai.com/v1"
-DEFAULT_MODEL = "gpt-5.4"
-API_KEY_ENV_VAR = "AZURE_OPENAI_API_KEY"
+ROOT = Path(__file__).resolve().parents[1]
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
+
+from client import API_KEY_ENV_VAR, BASE_URL_ENV_VAR, DEFAULT_MODEL, ENV_PATH, load_env
 
 EXTRACTION_PROMPT = """Extract all visible text from this PDF page.
 Preserve headings, reading order, numbers, negative values, currencies, and table
@@ -37,15 +40,16 @@ def extract_pdf_page(pdf_path: Path, page_number: int) -> bytes:
 
 
 def extract_text_with_azure(pdf_page: bytes) -> str:
+    load_env()
     api_key = os.environ.get(API_KEY_ENV_VAR)
     if not api_key:
         raise RuntimeError(
-            f"Missing {API_KEY_ENV_VAR}. Set it before running this script."
+            f"Missing {API_KEY_ENV_VAR}. Add it to {ENV_PATH}."
         )
 
     pdf_base64 = base64.b64encode(pdf_page).decode("ascii")
     client = openai.OpenAI(
-        base_url=os.environ.get(DEFAULT_BASE_URL),
+        base_url=os.environ.get(BASE_URL_ENV_VAR),
         api_key=api_key,
     )
     response = client.responses.create(

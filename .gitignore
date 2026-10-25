@@ -10,6 +10,10 @@ wheels/
 annual_report_os/
 annual_report_disney/
 tessdata/
+test_data/
 
 # Virtual environments
 .venv
+
+# Local secrets. uv run loads this automatically.
+.env
