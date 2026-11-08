@@ -1,0 +1,103 @@
+max_workers=4
+Wrote ./test_data/parsed/ophk_ar03-04.md (89 pages)
+Wrote ./test_data/parsed/ophk_ar04-05.md (104 pages)
+pages=193 wall=881.1s  pages/min=13.1
+latency avg=18.15s  p50=16.73s  p95=33.70s
+
+max_workers=8
+Wrote ./test_data/parsed/ophk_ar03-04.md (89 pages)
+Wrote ./test_data/parsed/ophk_ar04-05.md (104 pages)
+pages=193 wall=485.5s  pages/min=23.8
+latency avg=19.76s  p50=19.04s  p95=35.49s
+
+max_workers=16
+Wrote ./test_data/parsed/ophk_ar03-04.md (89 pages)
+Wrote ./test_data/parsed/ophk_ar04-05.md (103 pages)
+pages=192 wall=379.5s  pages/min=30.4
+latency avg=23.91s  p50=21.40s  p95=44.73s
+
+max_workers=32
+Wrote ./test_data/parsed/ophk_ar03-04.md (89 pages)
+Wrote ./test_data/parsed/ophk_ar04-05.md (104 pages)
+pages=193 wall=190.6s  pages/min=60.8
+latency avg=27.04s  p50=27.49s  p95=49.33s
+
+max_workers=48
+Wrote ./test_data/parsed/ophk_ar03-04.md (89 pages)
+Wrote ./test_data/parsed/ophk_ar04-05.md (104 pages)
+pages=193 wall=168.4s  pages/min=68.8
+latency avg=36.52s  p50=36.28s  p95=67.33s
+
+max_workers=64
+Wrote ./test_data/parsed/ophk_ar03-04.md (89 pages)
+Wrote ./test_data/parsed/ophk_ar04-05.md (104 pages)
+pages=193 wall=156.9s  pages/min=73.8
+latency avg=39.77s  p50=36.86s  p95=82.37s
+
+max_workers=80
+Wrote ./test_data/parsed/ophk_ar03-04.md (89 pages)
+Wrote ./test_data/parsed/ophk_ar04-05.md (104 pages)
+pages=193 wall=249.8s  pages/min=46.4
+latency avg=47.23s  p50=42.25s  p95=97.33s
+
+Log:
+========== PORT 12434 ==========
+# HELP vllm:num_requests_running Number of requests in model execution batches.
+# TYPE vllm:num_requests_running gauge
+vllm:num_requests_running{engine="0",model_name="Qwen3.8-27B-FP8-gpu0"} 9.0
+# HELP vllm:num_requests_waiting Number of requests waiting to be processed.
+# TYPE vllm:num_requests_waiting gauge
+vllm:num_requests_waiting{engine="0",model_name="Qwen3.8-27B-FP8-gpu0"} 0.0
+# HELP vllm:num_requests_waiting_by_reason Number of waiting requests by reason. Reason labels: 'capacity' = waiting for scheduling capac
+ity; 'deferred' = deferred by transient constraints (LoRA budget, KV transfer, blocked status). Sum of all reasons equals vllm:num_reques
+ts_waiting.
+# TYPE vllm:num_requests_waiting_by_reason gauge
+vllm:num_requests_waiting_by_reason{engine="0",model_name="Qwen3.8-27B-FP8-gpu0",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="Qwen3.8-27B-FP8-gpu0",reason="deferred"} 0.0
+# HELP vllm:kv_cache_usage_perc KV-cache usage. 1 means 100 percent usage.
+# TYPE vllm:kv_cache_usage_perc gauge
+vllm:kv_cache_usage_perc{engine="0",model_name="Qwen3.8-27B-FP8-gpu0"} 0.17355371900826444
+========== PORT 12435 ==========
+# HELP vllm:num_requests_running Number of requests in model execution batches.
+# TYPE vllm:num_requests_running gauge
+vllm:num_requests_running{engine="0",model_name="Qwen3.8-27B-FP8-gpu1"} 8.0
+# HELP vllm:num_requests_waiting Number of requests waiting to be processed.
+# TYPE vllm:num_requests_waiting gauge
+vllm:num_requests_waiting{engine="0",model_name="Qwen3.8-27B-FP8-gpu1"} 0.0
+# HELP vllm:num_requests_waiting_by_reason Number of waiting requests by reason. Reason labels: 'capacity' = waiting for scheduling capac
+ity; 'deferred' = deferred by transient constraints (LoRA budget, KV transfer, blocked status). Sum of all reasons equals vllm:num_reques
+ts_waiting.
+# TYPE vllm:num_requests_waiting_by_reason gauge
+vllm:num_requests_waiting_by_reason{engine="0",model_name="Qwen3.8-27B-FP8-gpu1",reason="capacity"} 0.0
+vllm:num_requests_waiting_by_reason{engine="0",model_name="Qwen3.8-27B-FP8-gpu1",reason="deferred"} 0.0
+# HELP vllm:kv_cache_usage_perc KV-cache usage. 1 means 100 percent usage.
+# TYPE vllm:kv_cache_usage_perc gauge
+vllm:kv_cache_usage_perc{engine="0",model_name="Qwen3.8-27B-FP8-gpu1"} 0.15702479338842978
+
+
+Wrote ./annual_report_os/parsed/ophk_ar05-06.md (150 pages)
+Wrote ./annual_report_os/parsed/ophk_ar15-16.md (113 pages)
+Wrote ./annual_report_os/parsed/ophk_ar09-10.md (64 pages)
+Wrote ./annual_report_os/parsed/ophk_ar24-25_fr.md (69 pages)
+Wrote ./annual_report_os/parsed/ophk_ar03-04.md (89 pages)
+Wrote ./annual_report_os/parsed/ophk_ar13-14.md (120 pages)
+Wrote ./annual_report_os/parsed/ophk_ar01-02.md (85 pages)
+Wrote ./annual_report_os/parsed/ophk_ar11-12.md (62 pages)
+Wrote ./annual_report_os/parsed/ophk_ar22-23.md (107 pages)
+Wrote ./annual_report_os/parsed/ophk_ar20-21.md (103 pages)
+Wrote ./annual_report_os/parsed/ophk_ar18-19.md (91 pages)
+Wrote ./annual_report_os/parsed/ophk_ar08-09.md (55 pages)
+Wrote ./annual_report_os/parsed/ophk_ar14-15.md (120 pages)
+Wrote ./annual_report_os/parsed/ophk_ar04-05.md (103 pages)
+Wrote ./annual_report_os/parsed/ophk_ar06-07.md (163 pages)
+Wrote ./annual_report_os/parsed/ophk_ar16-17.md (125 pages)
+Wrote ./annual_report_os/parsed/annual-report-2023-2024-financial-report.md (63 pages)
+Wrote ./annual_report_os/parsed/ophk_ar10-11.md (68 pages)
+Wrote ./annual_report_os/parsed/ophk_ar17-18.md (81 pages)
+Wrote ./annual_report_os/parsed/ophk_ar19-20.md (101 pages)
+Wrote ./annual_report_os/parsed/ophk_ar07-08.md (167 pages)
+Wrote ./annual_report_os/parsed/ophk_ar02-03.md (96 pages)
+Wrote ./annual_report_os/parsed/ophk_ar12-13.md (62 pages)
+Wrote ./annual_report_os/parsed/ophk_ar21-22.md (99 pages)
+pages=2356 wall=2452.3s  pages/min=57.6
+latency avg=64.44s  p50=55.13s  p95=142.03s
